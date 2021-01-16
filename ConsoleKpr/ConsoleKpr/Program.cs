@@ -10,6 +10,7 @@ namespace ConsoleKpr
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
